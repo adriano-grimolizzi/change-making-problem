@@ -1,4 +1,4 @@
-# changeMakingProblem
+# Change-making Problem
 My Java implementation of the solution of the Change-making problem.
 
 You can check the problem here: https://en.wikipedia.org/wiki/Change-making_problem
